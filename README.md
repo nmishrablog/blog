@@ -18,7 +18,7 @@ You can connect with me elsewhere on
 
 [Connecting Maker/Hacker spaces across the country -](http://www.google.com/url?q=http%3A%2F%2Fconservationxlabs.naveenmishra.co&sa=D&sntz=1&usg=AFQjCNFfouS4ITyqLBpToMmMhMosYxQkqQ) curated resources at community labs , maker/hacker spaces.
 
-Recent posts
+#### Recent posts
 
 [Fullstack Learning Hydra](/fullstack-learning-hydra.md) - a bottom up look at twitter as a learning medium.
 
