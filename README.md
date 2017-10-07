@@ -4,9 +4,9 @@
 
 I am hugely interested in how incentives and decentralization affect the future of collective action, money and information flow. I help companies, labs and groups of people think through their business models, incentives and strategy.
 
-You can connect with me elsewhere on 
+You can connect with me elsewhere on
 
-[![](/assets/tlogo.png)](https://twitter.com/urstrulymishra)![](/assets/mlogo.png)[![](/assets/llogo.png)](https://www.linkedin.com/in/naveenmishra/)[![](/assets/elogo.png)](mailto:contact@naveenmishra.co)
+[![](/assets/tlogo.png)](https://twitter.com/urstrulymishra)[![](/assets/mlogo.png)](https://medium.com/@naveenmishra)[![](/assets/llogo.png)](https://www.linkedin.com/in/naveenmishra/)[![](/assets/elogo.png)](mailto:contact@naveenmishra.co)
 
 #### Things I am working on
 
