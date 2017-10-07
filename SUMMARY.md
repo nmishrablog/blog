@@ -6,4 +6,5 @@
 * [Captable -Title 3](captable-title-3.md)
 * [Disrupting VC](disrupting-vc.md)
 * [DataOwnership](dataownership.md)
+* [D.A.O](dao.md)
 
