@@ -1,7 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* [About](chapter1.md)
+* [About](README.md)
+  * test
 * [Projects](projects.md)
 * [Captable -Title 3](captable-title-3.md)
 * [Disrupting VC](disrupting-vc.md)
@@ -15,6 +16,4 @@
 * [postglobalization meritocracy](postglobalization-meritocracy.md)
 * [Decentralization and Mahatma](decentralization-and-mahatma.md)
 * [Fullstack Learning Hydra](fullstack-learning-hydra.md)
-
-
 
