@@ -7,4 +7,5 @@
 * [Disrupting VC](disrupting-vc.md)
 * [DataOwnership](dataownership.md)
 * [D.A.O](dao.md)
+* [UniqueID](uniqueid.md)
 
