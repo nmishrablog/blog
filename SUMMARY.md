@@ -8,4 +8,5 @@
 * [DataOwnership](dataownership.md)
 * [D.A.O](dao.md)
 * [UniqueID](uniqueid.md)
+* [AI,Wetware](aiwetware.md)
 
