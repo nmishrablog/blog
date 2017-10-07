@@ -12,4 +12,5 @@
 * [Apple v Sony](apple-v-sony.md)
 * [Crowdraising.co](crowdraisingco.md)
 * [Crowdraising-metalaunch](crowdraising-metalaunch.md)
+* [postglobalization meritocracy](postglobalization-meritocracy.md)
 
