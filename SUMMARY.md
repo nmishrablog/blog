@@ -1,5 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [about](chapter1.md)
+* [About](chapter1.md)
+* [Projects](projects.md)
 
