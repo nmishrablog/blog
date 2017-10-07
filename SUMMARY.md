@@ -13,4 +13,5 @@
 * [Crowdraising.co](crowdraisingco.md)
 * [Crowdraising-metalaunch](crowdraising-metalaunch.md)
 * [postglobalization meritocracy](postglobalization-meritocracy.md)
+* [Decentralization and Mahatma](decentralization-and-mahatma.md)
 
