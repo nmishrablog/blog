@@ -1,6 +1,6 @@
 #### Hey there ,
 
-![](https://lh6.googleusercontent.com/I4cOlvzR6adhiEBBrSq4sA_pQsgNHE_L7-7-2iXfezrNYH0WElzThiO32i3VEtHOOyU3mHI6IA=w371)
+![](/assets/NaveenMishraResumePic.jpg)
 
 I am hugely interested in how incentives and decentralization affect the future of collective action, money and information flow. I help companies, labs and groups of people think through their business models, incentives and strategy.
 
@@ -12,11 +12,11 @@ You can connect with me elsewhere on
 
 [Crowdraising.co](/www.crowdraising.co) - A platform to power crowd management for the decentralization revolution.
 
-[First Principles](http://www.google.com/url?q=http%3A%2F%2Ffirstprinciples.naveenmishra.co&sa=D&sntz=1&usg=AFQjCNEiMXCjTEU2MOcsCcYO_jKL8kKUBw) - A first principles look and value chain analysis of different ideas.
+[First Principles](/firstprinciples.naveenmishra.co) - A first principles look and value chain analysis of different ideas.
 
-[De central Policy](http://www.google.com/url?q=http%3A%2F%2Fdecentralpolicy.naveenmishra.co&sa=D&sntz=1&usg=AFQjCNF4pesS60HZqXSX26QkSQJy_AaVIg) - consumer oriented research and best principles guide for blockchain and decentralization companies.
+[De central Policy](/decentralpolicy.naveenmishra.co) - consumer oriented research and best principles guide for blockchain and decentralization companies.
 
-[Connecting Maker/Hacker spaces across the country -](http://www.google.com/url?q=http%3A%2F%2Fconservationxlabs.naveenmishra.co&sa=D&sntz=1&usg=AFQjCNFfouS4ITyqLBpToMmMhMosYxQkqQ) curated resources at community labs , maker/hacker spaces.
+[Constellation ](/constellation.naveenmishra.co)- resources for community labs , maker/hacker spaces.
 
 #### Recent posts
 
