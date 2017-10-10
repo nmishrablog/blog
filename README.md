@@ -10,13 +10,13 @@ You can connect with me elsewhere on
 
 #### Things I am working on
 
-[Crowdraising.co](www.crowdraising.co) - A platform to power crowd management for the decentralization revolution.
+[Crowdraising](https://www.crowdraising.co) - A platform to power crowd management for the decentralization revolution.
 
-[First Principles](firstprinciples.naveenmishra.co) - A first principles look and value chain analysis of different ideas.
+[First Principles](https://firstprinciples.naveenmishra.co) - A first principles look and value chain analysis of different ideas.
 
-[De central Policy](decentralpolicy.naveenmishra.co) - consumer oriented research and best principles guide for blockchain and decentralization companies.
+[De central Policy](https://decentralpolicy.naveenmishra.co) - consumer oriented research and best principles guide for blockchain and decentralization companies.
 
-[Constellation ](constellation.naveenmishra.co)- resources for community labs , maker/hacker spaces.
+[Constellation](https://constellation.naveenmishra.co) - resources for community labs , maker/hacker spaces.
 
 #### Recent posts
 
