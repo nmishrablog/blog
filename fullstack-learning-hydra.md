@@ -1,6 +1,5 @@
 ## Parameterizing our connections-Twitter and the full-stack learning hydra {#h.p_8DJcp_3xzcpo}
 
-  
 _“Meeting new people is a fundamental human need” – sean rad._
 
 On apps like tinder we are parameterizing our relationships.We can swipe left or right based on any number of factors and the app will give us ever appealing options. A mutual match, when formed, has the chance to become something great.Enabling this is an open access policy to the unit of value in that network – connection between mutually interested parties.
@@ -13,7 +12,7 @@ This access to people’s expertise comes with consequences. By broadening the d
 
 Here is a relationship hydra with each vertex showing a different goal. The number of people corresponds directly to the width of the triangle.
 
-
+![](/assets/Base Hydra.png)
 
 A tinder match, like a connection on tinder for brains, may lead to different outcomes. The difference is that there is a support structure of entities \(contractual, legal, utilitarian, platonic, redress, social, religious, and political\) for taking advantage of each of those outcomes.
 
@@ -27,9 +26,11 @@ A big cause for these problems is the impersonal, non goal oriented, improperly 
 
 If we add commitment levels and deliverables to our hydras, we get
 
+![](/assets/Base Hydra red with data.png)
+
 While for the learning hydra they are
 
-One question that arises is what incentive exists at the top of this pyramid, head of the hydra, to pull people up? Let’s explore those incentives from two of the multiple heads private sector: Jobs and Academia.
+![](/assets/Base Hydra blue with data.png)One question that arises is what incentive exists at the top of this pyramid, head of the hydra, to pull people up? Let’s explore those incentives from two of the multiple heads private sector: Jobs and Academia.
 
 Private Jobs :
 
